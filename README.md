@@ -39,7 +39,9 @@ puts result
 - **Site**: [smartcardfyi.com](https://smartcardfyi.com)
 - **API**: [smartcardfyi.com/api/v1/](https://smartcardfyi.com/api/v1/)
 - **OpenAPI**: [smartcardfyi.com/api/v1/schema/](https://smartcardfyi.com/api/v1/schema/)
-
+- **Glossary**: [smartcardfyi.com/glossary/](https://smartcardfyi.com/glossary/)
+- **Guides**: [smartcardfyi.com/guides/](https://smartcardfyi.com/guides/)
+- **Tools**: [smartcardfyi.com/tools/](https://smartcardfyi.com/tools/)
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
 ## Tag FYI Family
